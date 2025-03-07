@@ -24,13 +24,6 @@
   margin: 0;
   padding: 0;
 }
-input,
-button,
-textarea,
-select {
-  font-family: inherit;
-  font-size: inherit;
-}
 
 body {
     font-family: 'Figtree', sans-serif;
@@ -45,23 +38,21 @@ body {
 /* Typography presets */
 
 .text-preset-1 {
-    font-size: 1.5rem;
+    font-size: clamp(1.25rem, 3vw, 1.5rem);
     line-height: 150%;
     font-weight: 800;
 }
 .text-preset-2 {
-    font-size: 1rem;
+    font-size: clamp(0.875rem, 2vw, 1rem);
     line-height: 150%;
     font-weight: 500;
 }
 .text-preset-3 {
-    font-size: 0.875rem;
+    font-size: clamp(0.75rem, 1.6vw, 0.875rem);
     line-height: 150%;
     font-weight: 500;
 }
-.text-preset-3--bold {
-    font-size: 0.875rem;
-    line-height: 150%;
+.bold {
     font-weight: 800;
 }
 .interactive-font:hover {
