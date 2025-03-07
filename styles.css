@@ -64,6 +64,10 @@ body {
     line-height: 150%;
     font-weight: 800;
 }
+.interactive-font:hover {
+    color: var(--color-yellow);
+    cursor: pointer;
+}
 
 main {
     flex: 1;
