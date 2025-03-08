@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## Table of contents
 
@@ -14,7 +14,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/OmarReyesC/frontend-mentor-blog-preview-card)
-- Live Site URL: [Live site URL](https://omarreyesc.github.io/frontend-mentor-blog-preview-card/)
+- Solution URL: [Github repository](https://github.com/OmarReyesC/frontend-mentor-blog-preview-card)
+- Live Site URL: [GH pages deployment](https://omarreyesc.github.io/frontend-mentor-blog-preview-card/)
 
 
 ### My process
